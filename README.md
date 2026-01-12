@@ -2,8 +2,8 @@
  tiktok api last version mass account creator of tik tok accounts, tik tok likes, comments, tik tok latest version, x-gorgon, x-ladon, x-argus, algorithms
 
 
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
 
 ## tiktok API
 1. login to the user by email and username
@@ -30,5 +30,5 @@
 
 
 
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
