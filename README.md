@@ -4,7 +4,6 @@
 **Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
 ## telegram: @dacent53
 
-
 ## tiktok API
 1. login to the user by email and username
 2. register new device
